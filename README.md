@@ -31,3 +31,8 @@ A Python-based implementation of the classic **Connect 4** game, featuring an in
    ```bash
    git clone https://github.com/Mamur-Sayor-IRE/Four-Connect-Game.git
    cd connect4-game
+2. pip install numpy pygame
+3. Place your sound files (player.mp3 and ai.mp3) in the same directory as the game script.
+4. Run the Game
+   ```bash
+   python connect4.py
